@@ -6,7 +6,8 @@ import (
 	"strconv"
 
 	"github.com/jmoiron/sqlx"
-	_ "github.com/kshvakov/clickhouse"
+	// _ "github.com/kshvakov/clickhouse"
+	_ "github.com/ClickHouse/clickhouse-go"
 )
 
 type ClickHouseRepo struct {
