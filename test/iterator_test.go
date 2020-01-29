@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/restream/reindexer"
-	"github.com/restream/reindexer/test/custom_struct_another"
+	"github.com/sapariduo/reindexer"
+	"github.com/sapariduo/reindexer/test/custom_struct_another"
 )
 
 func init() {

@@ -16,8 +16,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/restream/reindexer"
-	"github.com/restream/reindexer/bindings"
+	"github.com/sapariduo/reindexer"
+	"github.com/sapariduo/reindexer/bindings"
 )
 
 const (

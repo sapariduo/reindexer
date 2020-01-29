@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vagrant/MDM/reindexer/build/cpp_src/server/resources/lib.cpp
+cmrc/cmrc.hpp
+-
+map
+-
+
+_cmrc/include/cmrc/cmrc.hpp
+string
+-
+map
+-
+mutex
+-
+

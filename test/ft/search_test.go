@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/restream/reindexer"
-	_ "github.com/restream/reindexer/bindings/builtin"
+	"github.com/sapariduo/reindexer"
+	_ "github.com/sapariduo/reindexer/bindings/builtin"
 	"github.com/stretchr/testify/assert"
 )
 

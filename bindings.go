@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/restream/reindexer/bindings"
-	"github.com/restream/reindexer/bindings/builtinserver/config"
-	"github.com/restream/reindexer/cjson"
+	"github.com/sapariduo/reindexer/bindings"
+	"github.com/sapariduo/reindexer/bindings/builtinserver/config"
+	"github.com/sapariduo/reindexer/cjson"
 )
 
 const (

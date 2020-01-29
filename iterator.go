@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/restream/reindexer/bindings"
+	"github.com/sapariduo/reindexer/bindings"
 )
 
 // ExplainResults presents query plan

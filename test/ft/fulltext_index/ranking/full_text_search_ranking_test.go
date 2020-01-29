@@ -5,9 +5,9 @@ import (
 
 	"sort"
 
-	"github.com/restream/reindexer"
-	_ "github.com/restream/reindexer/bindings/builtin"
-	. "github.com/restream/reindexer/test/ft/specs"
+	"github.com/sapariduo/reindexer"
+	_ "github.com/sapariduo/reindexer/bindings/builtin"
+	. "github.com/sapariduo/reindexer/test/ft/specs"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

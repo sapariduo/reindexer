@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/restream/reindexer/bindings/builtinserver/config"
+	"github.com/sapariduo/reindexer/bindings/builtinserver/config"
 )
 
 type IndexDef struct {

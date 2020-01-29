@@ -12,8 +12,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/restream/reindexer/bindings"
-	"github.com/restream/reindexer/cjson"
+	"github.com/sapariduo/reindexer/bindings"
+	"github.com/sapariduo/reindexer/cjson"
 )
 
 type bufPtr struct {

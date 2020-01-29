@@ -3,8 +3,8 @@ package reindexer
 import (
 	"fmt"
 
-	"github.com/restream/reindexer/bindings"
-	"github.com/restream/reindexer/cjson"
+	"github.com/sapariduo/reindexer/bindings"
+	"github.com/sapariduo/reindexer/cjson"
 )
 
 type rawResultItemParams struct {

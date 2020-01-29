@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/restream/reindexer"
+	"github.com/sapariduo/reindexer"
 )
 
 func init() {

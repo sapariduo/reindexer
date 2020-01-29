@@ -6,8 +6,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/restream/reindexer"
-	"github.com/restream/reindexer/cjson"
+	"github.com/sapariduo/reindexer"
+	"github.com/sapariduo/reindexer/cjson"
 )
 
 type TestItemBench struct {

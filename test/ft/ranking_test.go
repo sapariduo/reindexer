@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/restream/reindexer"
-	_ "github.com/restream/reindexer/bindings/builtin"
+	"github.com/sapariduo/reindexer"
+	_ "github.com/sapariduo/reindexer/bindings/builtin"
 )
 
 func doRankingTest(t *testing.T, indexType string) {

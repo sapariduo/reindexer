@@ -3,10 +3,10 @@ package reindexer
 import (
 	"context"
 
-	"github.com/restream/reindexer/bindings"
-	_ "github.com/restream/reindexer/bindings/cproto"
-	"github.com/restream/reindexer/dsl"
-	// _ "github.com/restream/reindexer/bindings/builtinserver"
+	"github.com/sapariduo/reindexer/bindings"
+	_ "github.com/sapariduo/reindexer/bindings/cproto"
+	"github.com/sapariduo/reindexer/dsl"
+	// _ "github.com/sapariduo/reindexer/bindings/builtinserver"
 )
 
 // Condition types

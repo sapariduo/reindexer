@@ -126,13 +126,13 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/restream/reindexer"
+	"github.com/sapariduo/reindexer"
 	// choose how the Reindexer binds to the app (in this case "builtin," which means link Reindexer as a static library)
-	_ "github.com/restream/reindexer/bindings/builtin"
+	_ "github.com/sapariduo/reindexer/bindings/builtin"
 
 	// OR link Reindexer as static library with bundled server.
-	// _ "github.com/restream/reindexer/bindings/builtinserver"
-	// "github.com/restream/reindexer/bindings/builtinserver/config"
+	// _ "github.com/sapariduo/reindexer/bindings/builtinserver"
+	// "github.com/sapariduo/reindexer/bindings/builtinserver/config"
 
 )
 
@@ -758,7 +758,7 @@ Usage of cgo profiler is very similar with usage of [go profiler](https://golang
 
 1. Add import:
 ```go
-import _ "github.com/restream/reindexer/pprof"
+import _ "github.com/sapariduo/reindexer/pprof"
 ```
 
 2. If your application is not already running an http server, you need to start one. Add "net/http" and "log" to your imports and the following code to your main function:

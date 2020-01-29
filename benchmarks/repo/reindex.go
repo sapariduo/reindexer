@@ -4,9 +4,9 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/restream/reindexer"
-	_ "github.com/restream/reindexer/bindings/builtin"
-	_ "github.com/restream/reindexer/bindings/cproto"
+	"github.com/sapariduo/reindexer"
+	_ "github.com/sapariduo/reindexer/bindings/builtin"
+	_ "github.com/sapariduo/reindexer/bindings/cproto"
 )
 
 type ReindexRepo struct {

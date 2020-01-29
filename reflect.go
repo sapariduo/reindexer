@@ -8,7 +8,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/restream/reindexer/bindings"
+	"github.com/sapariduo/reindexer/bindings"
 )
 
 const (

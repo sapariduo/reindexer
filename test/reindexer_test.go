@@ -8,10 +8,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/restream/reindexer"
-	_ "github.com/restream/reindexer/bindings/builtin"
-	_ "github.com/restream/reindexer/bindings/cproto"
-	// _ "github.com/restream/reindexer/pprof"
+	"github.com/sapariduo/reindexer"
+	_ "github.com/sapariduo/reindexer/bindings/builtin"
+	_ "github.com/sapariduo/reindexer/bindings/cproto"
+	// _ "github.com/sapariduo/reindexer/pprof"
 )
 
 var DB *ReindexerWrapper

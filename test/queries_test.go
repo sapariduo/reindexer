@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/restream/reindexer"
-	"github.com/restream/reindexer/dsl"
+	"github.com/sapariduo/reindexer"
+	"github.com/sapariduo/reindexer/dsl"
 )
 
 type sortDistinctOptions struct {

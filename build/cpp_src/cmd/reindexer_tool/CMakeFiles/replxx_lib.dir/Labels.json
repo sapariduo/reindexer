@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/CMakeFiles/replxx_lib"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/CMakeFiles/replxx_lib.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/CMakeFiles/replxx_lib-complete.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/replxx_lib-prefix/src/replxx_lib-stamp/replxx_lib-install.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/replxx_lib-prefix/src/replxx_lib-stamp/replxx_lib-mkdir.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/replxx_lib-prefix/src/replxx_lib-stamp/replxx_lib-download.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/replxx_lib-prefix/src/replxx_lib-stamp/replxx_lib-update.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/replxx_lib-prefix/src/replxx_lib-stamp/replxx_lib-patch.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/replxx_lib-prefix/src/replxx_lib-stamp/replxx_lib-configure.rule"
+		},
+		{
+			"file" : "/home/vagrant/MDM/reindexer/build/cpp_src/cmd/reindexer_tool/replxx_lib-prefix/src/replxx_lib-stamp/replxx_lib-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"replxx_lib"
+		],
+		"name" : "replxx_lib"
+	}
+}

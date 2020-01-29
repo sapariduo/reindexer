@@ -9,8 +9,8 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/restream/reindexer/bindings"
-	"github.com/restream/reindexer/cjson"
+	"github.com/sapariduo/reindexer/bindings"
+	"github.com/sapariduo/reindexer/cjson"
 )
 
 // Constants for query serialization

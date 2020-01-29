@@ -9,9 +9,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/restream/reindexer/bindings"
-	"github.com/restream/reindexer/cjson"
-	"github.com/restream/reindexer/dsl"
+	"github.com/sapariduo/reindexer/bindings"
+	"github.com/sapariduo/reindexer/cjson"
+	"github.com/sapariduo/reindexer/dsl"
 )
 
 type reindexerNamespace struct {
