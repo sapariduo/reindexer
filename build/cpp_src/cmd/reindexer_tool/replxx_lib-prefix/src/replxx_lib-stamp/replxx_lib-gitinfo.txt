@@ -1,3 +1,0 @@
-repository='https://github.com/Restream/replxx'
-module=''
-tag=''

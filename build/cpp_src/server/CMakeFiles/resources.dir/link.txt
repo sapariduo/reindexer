@@ -1,2 +1,0 @@
-/usr/bin/ar qc libresources.a  CMakeFiles/resources.dir/resources/lib.cpp.o
-/usr/bin/ranlib libresources.a
